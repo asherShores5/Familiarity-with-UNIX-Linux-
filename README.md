@@ -1,11 +1,11 @@
 # Familiarity-with-UNIX-Linux-
 # Exploring Linux and learning shell commands/becoming familiar with Linux environment
 
-# Asher Shores & Philip Varkey
-# CST-315 - Operating Systems Lecture & Lab
-# Dr. Ricardo Citro
-# January 16th, 2022
-# This is my own work.
+Asher Shores & Philip Varkey
+CST-315 - Operating Systems Lecture & Lab
+Dr. Ricardo Citro
+January 16th, 2022
+This is my own work.
 
 
 
